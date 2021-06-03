@@ -136,7 +136,8 @@ public class ImdbDAO {
 	
 	public List<Adiacenza> getAttoriAdiacenti(String genere){
 		
-		String sql = ""
+		String sql = "";
+		return null;
 	}
 	
 	
